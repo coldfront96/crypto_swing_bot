@@ -3,8 +3,8 @@ import requests
 import json
 
 # UPDATE THESE WITH YOUR ACTUAL VALUES
-BOT_TOKEN = "8568172442:AAHx2nJfEj9RwCVl_V2wlX6tUhekKYFgBxg"  # Example: "701234567:AAHExample123"
-CHAT_ID = "8337656189"      # Example: "1234567890"
+BOT_TOKEN = "yourtokenhere"  # Example: "701234567:AAHExample123"
+CHAT_ID = "youridhere"      # Example: "1234567890"
 
 def test_telegram():
     print("🤖 Testing Telegram connection...")
@@ -46,4 +46,5 @@ def test_telegram():
         print(f"❌ Unexpected error: {type(e).__name__}: {e}")
 
 if __name__ == "__main__":
+
     test_telegram()
