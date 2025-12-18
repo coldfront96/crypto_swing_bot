@@ -1,0 +1,24 @@
+2025-12-16 02:37:01,271 - INFO - Created trade log: data/trade_history.xlsx
+2025-12-16 02:37:02,696 - INFO - Telegram notifications enabled
+2025-12-16 02:37:02,696 - INFO - Bot initialized with $40.0 capital
+2025-12-16 02:37:02,696 - INFO - Starting Swing Trading Bot
+2025-12-16 02:37:02,696 - INFO - ============================================================
+2025-12-16 02:37:02,696 - INFO - Trading cycle #1
+2025-12-16 02:37:02,770 - INFO - Available USDT: $42.78
+2025-12-16 02:37:03,014 - INFO - Cycle complete. Active trades: 0
+2025-12-16 02:37:03,014 - INFO - ============================================================
+2025-12-16 02:37:03,015 - INFO - Bot scheduler started
+2025-12-16 06:37:02,762 - INFO - ============================================================
+2025-12-16 06:37:02,762 - INFO - Trading cycle #1
+2025-12-16 06:37:03,392 - INFO - Available USDT: $42.78
+2025-12-16 06:37:03,811 - INFO - Cycle complete. Active trades: 0
+2025-12-16 06:37:03,811 - INFO - ============================================================
+2025-12-16 06:40:09,817 - INFO - Telegram notifications enabled
+2025-12-16 06:40:09,817 - INFO - Bot initialized with $40.0 capital
+2025-12-16 06:40:09,817 - INFO - Starting Swing Trading Bot
+2025-12-16 06:40:09,817 - INFO - ============================================================
+2025-12-16 06:40:09,817 - INFO - Trading cycle #1
+2025-12-16 06:40:09,895 - INFO - Available USDT: $42.78
+2025-12-16 06:40:10,047 - INFO - Cycle complete. Active trades: 0
+2025-12-16 06:40:10,047 - INFO - ============================================================
+2025-12-16 06:40:10,047 - INFO - Bot scheduler started
